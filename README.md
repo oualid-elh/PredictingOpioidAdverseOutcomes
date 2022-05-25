@@ -16,7 +16,7 @@ The purpose of this project is to develop a stratification tool that flags Medic
 
 ## Other folders
 
-* [Resources](./Resources/): Contains all the external files (non-HMS) used in the code. For example, it contains the CCSR categories for diagnosis and procedures, opioid information files (e.g CDC_opioids.csv), the ICD/CPT codes used for surgery, the ICD codes used for flagging opioid dependence, abuse and overdose.
+* [Resources](./Resources/): Contains all the external files (non-HMS) used in the code. For example, it contains the CCSR categories for diagnosis and procedures, opioid information files (e.g CDC_opioids.csv) etc.
 
 
 ## Code requirements
