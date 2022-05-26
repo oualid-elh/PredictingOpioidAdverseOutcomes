@@ -10,7 +10,7 @@ The purpose of this project is to develop a stratification tool that flags Medic
 
 1. [Models](./Models/): Contains the Jupyter notebook for the models trained and evaluated for the primary outcome. Also contains a notebook for evaluating calibration and discrimination.
 
-2. [Statistical Analysis](./Statistical analysis/): Contains the Jupyter notebooks used for conducting statistical analysis on the cohort. The file `Descriptive_statistics.ipynb` was used to generate the Table 1 statistics (i.e descriptive statistics about demographics stratified by outcome) and to measure the bivariate association between the outcome and the diagnosis variables Diabetes, Depression, Obesity, in absolute value and across years. The file `Statistical_trend_test.ipynb` is used to do a t-test on regression slopes for comparison of the trends of the primary outcome evolution, between 2016 and 2020, for vulnerable populations.
+2. [Statistical Analysis](./Statistical Analysis/): Contains the Jupyter notebooks used for conducting statistical analysis on the cohort. The file `Descriptive_statistics.ipynb` was used to generate the Table 1 statistics (i.e descriptive statistics about demographics stratified by outcome) and to measure the bivariate association between the outcome and the diagnosis variables Diabetes, Depression, Obesity, in absolute value and across years. The file `Statistical_trend_test.ipynb` is used to do a t-test on regression slopes for comparison of the trends of the primary outcome evolution, between 2016 and 2020, for vulnerable populations.
 
 
 
